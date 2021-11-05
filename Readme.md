@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="Images/Bird.gif" height="250" />
+        <img src="Images/Bird.gif" height="200" />
     </p>
     <h4 align="center"><samp>Hi there, welcome to my Github! I'm a .Net enthusiast developer, Open Source contributor. Helping people improve their productivity in Revit and the Revit API ☁️</samp></h4>
     <p>
