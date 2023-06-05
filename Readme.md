@@ -2,7 +2,7 @@
     <p>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nice3point/Nice3point/assets/20504884/8822348d-2071-4d4c-972d-7d82f5f8f8e6">
-            <img alt="Image" width="600" src="https://github.com/Nice3point/Nice3point/assets/20504884/84672786-b507-4b6a-af76-fcfe5dbb3fd8" height="200">
+            <img alt="Image" width="35%" height="35%" src="https://github.com/Nice3point/Nice3point/assets/20504884/84672786-b507-4b6a-af76-fcfe5dbb3fd8" height=100>
         </picture>
     </p>
     <h4 align="center"><samp>Hi there, welcome to my Github! I'm a .Net enthusiast developer, Open Source contributor. My main focus is on enhancing productivity in Revit and the Revit API, while striving to make the process as easy and effortless as possible ☁️</samp></h4>
