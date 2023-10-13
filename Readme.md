@@ -5,7 +5,9 @@
             <img alt="Image" width="35%" height="35%" src="https://github.com/Nice3point/Nice3point/assets/20504884/84672786-b507-4b6a-af76-fcfe5dbb3fd8">
         </picture>
     </p>
-    <h4 align="center"><samp>Hi there, welcome to my Github! I'm a .Net enthusiast developer, Open Source contributor. My main focus is on enhancing productivity in Revit and the Revit API, while striving to make the process as easy and effortless as possible ☁️</samp></h4>
+    <b align="center"><samp>Hi there, welcome to my Github! I'm a .Net enthusiast developer, Open Source contributor. My main focus is on enhancing productivity in Revit and the Revit API, while striving to make the process as easy and effortless as possible ☁️</samp></b>
+    <br>
+    <br>
     <p>
         <img alt="Image" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=black&labelColor=crimson" />
         <img alt="Image" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=black&labelColor=crimson" />
